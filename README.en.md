@@ -123,7 +123,7 @@ Some of the source code of TikHub will be open sourced on Github and will sponso
 
 **_Most of the parameters of the above files can be in the corresponding`config.yaml`Make modifications in_**
 
-## 💡Project file structure
+## 💡项目文件结构
 
     ./Douyin_TikTok_Download_API
     ├─app
@@ -148,7 +148,7 @@ Some of the source code of TikHub will be open sourced on Github and will sponso
 
 -   Batch analysis on the web side (supports Douyin/TikTok hybrid analysis)
 -   Download videos or albums online.
--   Production[pip package](https://pypi.org/project/douyin-tiktok-scraper/)Easy and quick import of your project
+-   制作[pip package](https://pypi.org/project/douyin-tiktok-scraper/)Easy and quick import of your project
 -   [iOS shortcuts to quickly call API](https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334)Implement watermark-free video/picture collection in-app download
 -   Complete API documentation ([Demo/Demo](https://api.douyin.wtf/docs))
 -   Rich API interfaces:
@@ -300,7 +300,8 @@ Online:<https://api.douyin.wtf/docs>
 
 **_API Demo:_**
 
--   Crawl video data (TikTok or Douyin mixed analysis)`https://api.douyin.wtf/api/hybrid/video_data?url=[视频链接/Video URL]&minimal=false`
+-   爬取视频数据(TikTok或Douyin混合解析)
+    `https://api.douyin.wtf/api/hybrid/video_data?url=[视频链接/Video URL]&minimal=false`
 -   Download video/picture album (TikTok or Douyin mixed analysis)`https://api.douyin.wtf/api/download?url=[视频链接/Video URL]&prefix=true&with_watermark=false`
 
 **_For more demonstrations, please check the document content..._**
