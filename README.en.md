@@ -255,7 +255,7 @@ asyncio.run(hybrid_parsing(url=input("Paste Douyin/TikTok/Bilibili share URL her
 https://v.douyin.com/L4FJNR3/
 ```
 
--   抖音正常网址 (网页版复制)
+-   Douyin Normal URL (web version copy)
 
 ```text
 https://www.douyin.com/video/6914948781100338440
