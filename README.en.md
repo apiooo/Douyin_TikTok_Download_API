@@ -212,7 +212,7 @@ Some of the source code of TikHub will be open sourced on Github and will sponso
         -   [x] Get real-time video barrage
         -   [x] Get information about the specified live broadcast room
         -   [x] Get live video streaming
-        -   [x] Get the anchor who is currently broadcasting in the specified partition
+        -   [x] 获取指定分区正在直播的主播
         -   [x] Get a list of all live partitions
         -   [x] Obtain video score information through bv number
 
@@ -427,7 +427,7 @@ Most of the configurations of the project can be found in the following director
 
 ### Step 5: Stop and remove the container
 
-需要停止和移除容器时，使用以下命令：
+When you need to stop and remove the container, use the following command:
 
 ```bash
 # Stop
