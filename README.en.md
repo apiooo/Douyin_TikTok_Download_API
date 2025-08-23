@@ -7,7 +7,7 @@
 
 [English](./README.en.md)\|[Simplified Chinese](./README.md)
 
-🚀 "Douyin_TikTok_Download_API" is a high-performance asynchronous out-of-the-box[Tik Tok](https://www.douyin.com)\|[Tiktok](https://www.tiktok.com)\|[Biliable](https://www.bilibili.com)Data crawling tool, supports API calls, online batch analysis and download.
+🚀 "Douyin_TikTok_Download_API" is a high-performance asynchronous out-of-the-box[Tik Tok](https://www.douyin.com)\|[Tiktok](https://www.tiktok.com)\|[Biliible](https://www.bilibili.com)Data crawling tool, supports API calls, online batch analysis and download.
 
 [![GitHub license](https://img.shields.io/github/license/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)](LICENSE)[![Release Version](https://img.shields.io/github/v/release/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/releases/latest)[![GitHub Star](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/network/members)[![GitHub issues](https://img.shields.io/github/issues/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues)[![GitHub closed issues](https://img.shields.io/github/issues-closed/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues?q=is%3Aissue+is%3Aclosed)![GitHub Repo size](https://img.shields.io/github/repo-size/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square&color=3cb371)<br>[![PyPI v](https://img.shields.io/pypi/v/douyin-tiktok-scraper?style=flat-square&color=%23a8e6cf)](https://pypi.org/project/douyin-tiktok-scraper/)[![PyPI wheel](https://img.shields.io/pypi/wheel/douyin-tiktok-scraper?style=flat-square&color=%23dcedc1)](https://pypi.org/project/douyin-tiktok-scraper/#files)[![PyPI dm](https://img.shields.io/pypi/dm/douyin-tiktok-scraper?style=flat-square&color=%23ffd3b6)](https://pypi.org/project/douyin-tiktok-scraper/)[![PyPI pyversions](https://img.shields.io/pypi/pyversions/douyin-tiktok-scraper?color=%23ffaaa5&style=flat-square)](https://pypi.org/project/douyin-tiktok-scraper/)<br>[![API status](https://img.shields.io/website?down_color=lightgrey&label=API%20Status&down_message=API%20offline&style=flat-square&up_color=%23dfb9ff&up_message=online&url=https%3A%2F%2Fapi.douyin.wtf%2Fdocs)](https://api.douyin.wtf/docs)[![TikHub-API status](https://img.shields.io/website?down_color=lightgrey&label=TikHub-API%20Status&down_message=API%20offline&style=flat-square&up_color=%23dfb9ff&up_message=online&url=https%3A%2F%2Fapi.tikhub.io%2Fdocs)](https://api.tikhub.io/docs)<br>[![爱发电](https://img.shields.io/badge/爱发电-evil0ctal-blue.svg?style=flat-square&color=ea4aaa&logo=github-sponsors)](https://afdian.net/@evil0ctal)[![Kofi](https://img.shields.io/badge/Kofi-evil0ctal-orange.svg?style=flat-square&logo=kofi)](https://ko-fi.com/evil0ctal)[![Patreon](https://img.shields.io/badge/Patreon-evil0ctal-red.svg?style=flat-square&logo=patreon)](https://www.patreon.com/evil0ctal)
 
@@ -64,11 +64,11 @@ _Download videos that are prohibited from being downloaded, perform data analysi
 
 > 📦 Out of the box
 
-Simplify the usage process and quickly carry out development work using the encapsulated SDK. All API interfaces are designed according to the RESTful architecture and are described and documented using the OpenAPI specification, accompanied by example parameters to ensure that calls are easier.
+Simplify the usage process and quickly carry out development work using the encapsulated SDK. All API interfaces are designed according to the RESTful architecture and are described and documented using the OpenAPI specification, with example parameters to ensure that calls are easier.
 
 > 💰 Cost Advantage
 
-There is no preset package limit, no monthly usage threshold, all consumption is billed instantly based on the actual usage, and is billed step by step based on the user's daily request volume. At the same time, you can check in in the user's background through daily check-in, and these free amounts will not expire.
+There is no preset package limit, no monthly usage threshold, all consumption is billed instantly based on the actual usage, and is charged step by step based on the user's daily request volume. At the same time, you can check in in the user's background through daily check-in, and these free amounts will not expire.
 
 > ⚡️ Quick support
 
@@ -170,7 +170,7 @@ Some of the source code of TikHub will be open sourced on Github and will sponso
         -   [x] Generate s_v_web_id
         -   [x] Generate X-Bogus parameters using interface URL
         -   [x] Generate A_Bogus parameters using interface URL
-        -   [x] Extract individual user ids
+        -   [x] Extract a single user id
         -   [x] Extract list user id
         -   [x] Extract individual works id
         -   [x] Extract list work id
@@ -212,7 +212,7 @@ Some of the source code of TikHub will be open sourced on Github and will sponso
         -   [x] Get real-time video barrage
         -   [x] Get information about the specified live broadcast room
         -   [x] Get live video streaming
-        -   [x] 获取指定分区正在直播的主播
+        -   [x] Get the anchor who is currently broadcasting in the specified partition
         -   [x] Get a list of all live partitions
         -   [x] Obtain video score information through bv number
 
