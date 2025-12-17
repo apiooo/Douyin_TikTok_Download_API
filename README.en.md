@@ -160,7 +160,7 @@ Part of TikHub's source code will be open sourced on Github, and it will sponsor
         -   [x] Obtain the data of collected works on the user's homepage
         -   [x] Get user homepage information
         -   [x] Get user collection work data
-        -   [x] Get user live stream data
+        -   [x] Get user live streaming data
         -   [x] Get the live streaming data of a specified user
         -   [x] Get the ranking of users who give gifts in the live broadcast room
         -   [x] Get single video comment data
